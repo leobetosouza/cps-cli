@@ -2,6 +2,12 @@
 A nodejs version of https://media.smwcentral.net/Alcaro/bps/
 It's used to apply .bps patches to ROM files.
 
+## Install
+
+```bash
+$ npm i cps-patcher
+```
+
 ## Usage
 
 ```bash
