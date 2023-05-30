@@ -1,6 +1,6 @@
 {
   "name": "cps-patcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI to apply BPS patchers to ROM files",
   "main": "bin/index.js",
   "bin": {
